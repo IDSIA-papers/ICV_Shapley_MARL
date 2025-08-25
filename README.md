@@ -1,6 +1,6 @@
 # ICV Shapley MARL
 
-Implementation of the paper *Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning*, presented at ECAI 2025.
+Implementation of the [paper](https://arxiv.org/abs/2508.15652) *Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning*, presented at ECAI 2025.
 
 ## Usage
 

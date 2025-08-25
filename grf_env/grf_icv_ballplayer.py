@@ -132,6 +132,7 @@ def get_jsd(agent,state1, state2):
     probs1 = probs1[0].tolist()
     probs2 = probs2[0].tolist()
     jsd = jensenshannon(probs1, probs2, 2)
+    if math.isnan(jsd): jsd = 0 #sometimes happens that jsd is nan.
     return jsd
 
 def plot_history(steps, opp_metrics, coal_metrics):
