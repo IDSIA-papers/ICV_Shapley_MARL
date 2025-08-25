@@ -1,4 +1,4 @@
-# ICV Shapley MARL
+# Intended Cooperation Values (ICVs) for Multi-Agent Reinforcement Learning
 
 Implementation of the [paper](https://arxiv.org/abs/2508.15652) *Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning*, presented at ECAI 2025.
 
@@ -27,4 +27,5 @@ For GFootball, we consider two cases: `grf_icv_ballplayer.py` computes the actio
   booktitle = {Proceedings of the European Conference on Artificial Intelligence, {ECAI}},
   year      = {2025}
 }
+
 ```
